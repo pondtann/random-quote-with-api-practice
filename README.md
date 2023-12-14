@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite Practice
 
 PRACTICE some project idea from
 https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/
